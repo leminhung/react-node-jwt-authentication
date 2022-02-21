@@ -1,5 +1,6 @@
-# ReactJS JWT Authentication
+# ReactJS JWT Authentication with NodeJS
 
-Video: https://youtu.be/T5dIjye4b-I 
+### Features
 
-Playlist: https://www.youtube.com/playlist?list=PL2adUX6Utt_2ushm0DDJ3fxiKypU44KZq
+1. Sign in, Sign out, Sign up account with JWT
+2. Refresh token when token expired
